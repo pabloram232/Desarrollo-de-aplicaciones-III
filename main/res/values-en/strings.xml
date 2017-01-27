@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Person</string>
+    <string name="nombre">Name</string>
+    <string name="peso">Weight in kilograms</string>
+    <string name="estatura">Height in meters</string>
+    <string name="ejercicio">Do daily exercise</string>
+    <string name="hombre">Male</string>
+    <string name="mujer">female </string>
+    <string name="boton1">Show data of Person</string>
+    <string name="resultado">Result</string>
+    <string name="boton2">Clear</string>
+    <string name="texto">One of the ways to gain weight is by eating these foods shown in the following image</string>
+    <string name="normal">To conserve normal weight you need to do the following steps shown in the picture</string>
+    <string name="Sobrepeso">To be able to lose weight you need to follow these steps</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Persona</string>
+    <string name="nombre">Nombre de la persona</string>
+    <string name="peso">Peso en kilogramos</string>
+    <string name="estatura">Estatura en metros</string>
+    <string name="ejercicio">Realiza ejercicio diariamente</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="boton1">Mostar datos de La persona</string>
+    <string name="resultado">Resultado</string>
+    <string name="boton2">Limpiar</string>
+
+    <string name="texto">Una de las manera para poder subir de peso es comiendo estos alimentos que se muestran en la siguinte imagen</string>
+    <string name="normal">Para conservar el peso normal necesitas hacer los siguientes pasos que se muestran en la imagen</string>
+    <string name="Sobrepeso">Para poder bajar de peso necesitas seguir estos paso</string>
+</resources>
